@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1>FlipkartClone</h1>
+     <h1>FlipkartClone - applicationVite</h1>
     </>
   )
 }
